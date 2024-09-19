@@ -22,20 +22,20 @@ body {
 }
 
 .sessao-2 p {
-    font-family: 'Georgia', serif; /* Fonte serifada para um toque clássico */
-    font-style: italic; /* Texto em itálico para representar a citação */
-    font-size: 18px; /* Tamanho de fonte confortável para leitura */
-    text-align: center; /* Centraliza o texto da citação */
-    color: #333; /* Cinza escuro para um contraste suave */
-    margin: 20px 0 10px 0; /* Espaçamento para separar do restante da página */
+    font-family: 'Georgia', serif;
+    font-style: italic;
+    font-size: 18px;
+    text-align: center;
+    color: #333;
+    margin: 20px 0 10px 0;
 }
 
 .sessao-2 h3 {
-    font-family: 'Arial', sans-serif; /* Fonte simples e limpa */
-    font-size: 16px; /* Tamanho um pouco menor para o nome do autor */
-    text-align: center; /* Centraliza o nome do autor */
-    color: #555; /* Cinza médio para diferenciar da citação */
-    margin: 0; /* Remove margens adicionais */
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    text-align: center;
+    color: #555;
+    margin: 0;
 }
 figure {
     margin: 0;
@@ -45,7 +45,7 @@ figure {
 figcaption {
     background-color: #2a3f31;
     color: #f3eac2;
-    padding: 10px; /* Espaçamento dentro do rodapé */
+    padding: 10px;
     text-align: center;
     font-size: 14px;
 	font-style: italic;
