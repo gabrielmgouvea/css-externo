@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="widt=device-widht, initial-scale=1.0">
+        <title>REVISAOP1</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div class="imagem1">
+            <figure>
+                <img src="https://i.imgur.com/yIDQ7fx.jpeg" width="100%", height="300px", alt="elden tree">
+                <figcaption> "Erdtree - Elden Ring Fanart Acrylic Painting by Foxhardt on DeviantArt"
+            </figure>
+        </div>
+        <div class="paragrafo">
+            <p>"Seeing that giant glowing Erdtree from Elden Ring, I knew I had to paint it. All of the scenery from that game left me feeling inspired!"</p>
+        </div>
+        <div class="sessao-1">
+            <h1>The Golden Order has been broken.</h1>
+            <p>Rise, Tarnished, and be guided by grace to brandish the power of the Elden Ring and become an Elden Lord in the Lands Between</p>
+
+            <p>In the Lands Between ruled by Queen Marika the Eternal, the Elden Ring, the source of the Erdtree, has been shattered.</p>
+                
+            <p>Marika's offspring, demigods all, claimed the shards of the Elden Ring known as the Great Runes, and the mad taint of their newfound strength triggered a war: The Shattering. A war that meant abandonment by the Greater Will.</p>
+                
+            <p>And now the guidance of grace will be brought to the Tarnished who were spurned by the grace of gold and exiled from the Lands Between. Ye dead who yet live, your grace long lost, follow the path to the Lands Between beyond the foggy sea to stand before the Elden Ring.</p>
+        </div>
+        <table border="1" align="center" width="100%">
+            <tr>
+                <td colspan="4" align="center" bgcolor="#8da0fc">TABELA</td>
+            </tr>
+            <tr>
+                <td bgcolor="#a1b0f7"></td>
+                <th bgcolor="#a1b0f7">
+                    <img src="https://eldenring.wiki.fextralife.com/file/Elden-Ring/lusat's_glintstone_staff_9_elden_ring_wiki_guide_200px.png" alt="Cajado 1" width="100" height="100">
+                </th>
+                <th bgcolor="#a1b0f7">
+                    <img src="https://eldenring.wiki.fextralife.com/file/Elden-Ring/carian_regal_scepter_glintstonestaff_weapon_elden_ring_wiki_guide_200px.png" alt="Cajado 2" width="100" height="100">
+                </th>
+                <th bgcolor="#a1b0f7">
+                    <img src="https://static.wikia.nocookie.net/eldenring/images/c/c8/ER_Icon_weapon_Staff_of_Loss.png/revision/latest?cb=20220411010327" alt="Cajado 3" width="100" height="100">
+                </th>
+            </tr>
+            <tr align="center">
+                <td bgcolor="#c2cdfc">NOVO_INDICE:</strong></td>
+                <td bgcolor="#c2cdfc"  rowspan="2">1</td>
+                <td bgcolor="#c2cdfc">10 anos</td>
+                <td bgcolor="#c2cdfc">6x ao dia</td>
+            </tr>
+            <tr align="center">
+                <td bgcolor="#c2cdfc">NOVO_INDICE2</td>
+                <td bgcolor="#c2cdfc">8 anos</td>
+                <td bgcolor="#c2cdfc">10x ao dia</td>
+            </tr>
+            <tr align="center">
+                <td bgcolor="#c2cdfc">NOVO_INDICE3:</strong></td>
+                <td bgcolor="#c2cdfc">3</td>
+                <td bgcolor="#c2cdfc">12 anos</td>
+                <td bgcolor="#c2cdfc">6x ao dia</td>
+            </tr>
+            <tr align="center">
+                <td bgcolor="#c2cdfc">NOVO_INDICE4:</strong></td>
+                <td bgcolor="#c2cdfc">4</td>
+                <td bgcolor="#c2cdfc">9 anos</td>
+                <td bgcolor="#c2cdfc">7x ao dia</td>
+            </tr>
+        </table>        
+        <button onclick="document.getElementById('iframewiki').src='https://en.wikipedia.org/wiki/Elden_Ring';">Carregar página</button>
+        <iframe id="iframewiki" class="iframe-estilo" width="600" height="400" style="border:none;"></iframe>
+    </body>
+</html>
